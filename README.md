@@ -24,7 +24,9 @@ Step 7: Save and run the application.
 ## PROGRAM:
 /*
 Program to print the text “ExplicitIntent”.
+
 Developed by:Kulaganachi.R 
+
 Registeration Number :212221040086 
 */
 ## Activity_xml File:
@@ -66,11 +68,17 @@ tools:context=".MainActivity">
 ~~~
 ## Activity_xml 2 File:
 <?xml version="1.0" encoding="utf-8"?>
+
  <androidx.constraintlayout.widget.ConstraintLayout     xmlns:android="http://schemas.android.com/apk/res/android"
+ 
 xmlns:app="http://schemas.android.com/apk/res-auto"
+
 xmlns:tools="http://schemas.android.com/tools"
+
 android:layout_width="match_parent"
+
 android:layout_height="match_parent"
+
 tools:context=".FactorialActivity">
 
 <TextView
@@ -166,12 +174,13 @@ return factorial;
 }
 ~~~
 ## OUTPUT
-265635985-b49328c6-5f68-430a-ab5f-3832bfd4944d
+![image](https://github.com/Kulaganachi/Explicit_Intent/assets/133641126/59e785f4-b2fd-45e1-b9f8-701db5221d11)
 
-265636049-2a99981d-ae2f-412e-a8aa-29ef718a116c
+![image](https://github.com/Kulaganachi/Explicit_Intent/assets/133641126/2f3da97a-4202-4243-b3ef-a27c37081cd6)
 
-265636090-2af09f50-71ae-4f86-bc4b-f176b05853da
+![image](https://github.com/Kulaganachi/Explicit_Intent/assets/133641126/4ff3217e-7191-485e-9db7-75fb6bf1b411)
 
-RESULT
+
+## RESULT
 Thus a Simple Android Application create a Explicit Intents using Android Studio is developed and executed successfully.
 
